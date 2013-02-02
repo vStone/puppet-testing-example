@@ -13,3 +13,5 @@ branches:
   only:
     - master
     - develop
+=======
+gemfile: .gemfile
