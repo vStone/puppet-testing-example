@@ -5,5 +5,5 @@ You can view the talk here: http://vstone.eu/talks/puppet-module-testing
 If you plan on reusing it, which I encourage, I also suggest you improve it
 here: https://github.com/vStone/talk-puppet-module-testing-revealjs
 
-If you feel like a basic example test is missing, I also encourage you to
-send out a pull request which I will glady accept.
+If you feel like a basic example test is missing, the solution is a pull
+request away.
