@@ -7,3 +7,8 @@ here: https://github.com/vStone/talk-puppet-module-testing-revealjs
 
 If you feel like a basic example test is missing, the solution is a pull
 request away.
+
+
+## Note
+
+You can find a more complete example here: https://github.com/vstone/puppet-module-testing
